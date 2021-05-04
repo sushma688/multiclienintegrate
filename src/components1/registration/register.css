@@ -1,0 +1,109 @@
+@import 'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css';
+.Login1{
+    height: 590px;
+    width: 400px;
+    position: absolute;
+    
+    left: 500px;
+    
+    margin: auto;
+    border-radius: 20px;
+    color: white;
+    transform: translate(0%,6%);
+
+    background-color:darkblue ;
+}
+.Login2{
+  height: 680px;
+  width: 400px;
+  position: absolute;
+  
+  left: 500px;
+  
+  margin: auto;
+  border-radius: 20px;
+  color: white;
+  transform: translate(0%,6%);
+ 
+  background-color:#0f0f0f ;
+}
+
+.Login-box1{
+  height: 700px;
+    width: 350px;
+    margin-left: 20px;
+    justify-content: space-between;
+    padding: 10px;
+    /* margin-left: auto;
+    margin: auto;
+    padding: 25px;
+    
+    width:  280px;
+    height: 390px;
+   
+    box-shadow: 2px 2px 9px 2px blueviolet;
+  background-color: #0275d8; */
+   
+
+
+
+
+
+
+   
+}
+.Login-box1 h1{
+    float: left;
+    font-size: 40px;
+    border-bottom: 6px solid #4caf50;
+    
+    padding: 20px 0px
+}
+.Login-box1 h3{
+  float: left;
+  font-size: 25px;
+  border-bottom: 6px solid #c8f088;
+  
+  padding: 20px 0px
+}
+.textbox1{
+    width:100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 3px solid #afa84c;
+}
+
+.textbox1 input{
+    display: flex;
+  flex-direction: row;
+  margin:20px 20px;
+    border:none;
+    outline: none;
+    background: none;
+    color: white;
+    font-size: 18px;
+    width: 80%;
+    float: left;
+    margin: 0px 10px;
+
+}
+.but1{
+    margin-top:25px;
+    width: 100%;
+    background: none;
+    border: 2px solid #4caf50;
+  color: white;
+    padding: 5px;
+    font-size: 18px;
+}
+/* .but1{
+    margin-top:10px;
+    width: 100%;
+    background: none;
+    border: 2px solid #4caf50;
+  color: white;
+    padding: 5px;
+    font-size: 18px;
+} */

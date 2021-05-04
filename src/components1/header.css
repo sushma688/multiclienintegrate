@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-image: url("https://www.ppt-backgrounds.net/thumbs/metalic-blue-picture-presentation.jpeg");
+    
+}
+
+main {
+    margin: 16px;
+}
+
+.navbar {
+    
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background: #191970;
+    color: black;
+    font-family: Garamond, serif;
+    font-weight: 300;
+    /* height: 140px; */
+}
+
+.navbar__title {
+    margin-right: auto;
+    font-size: 150%;
+    padding: 12px 16px;
+}
+
+.navbar__item {
+    padding: 16px 16px;
+    cursor: pointer;
+    vertical-align: middle;
+}
